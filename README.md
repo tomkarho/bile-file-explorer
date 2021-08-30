@@ -2,6 +2,8 @@ BileEx.FileExplorer
 ===================
 A file explorer for Blazor Server projects.
 
+[Nuget](https://www.nuget.org/packages/BileEx.FileExplorer/)
+
 ## How to use
 
 ### Blazor components
