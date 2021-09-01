@@ -4,6 +4,9 @@ A file explorer for Blazor Server projects.
 
 [Nuget](https://www.nuget.org/packages/BileEx.FileExplorer/)
 
+## Why is this repository empty
+Project development is done [elsewhere](https://git.tomkarho.com/bile/file-explorer). This repository is more for archival purposes.
+
 ## How to use
 
 ### Blazor components
@@ -122,9 +125,6 @@ And set AllowedFileTypes: ["video"].
 - testvid.mpeg
 
 Would be displayed.
-
-### Development
-Project development is done [elsewhere](https://git.tomkarho.com/bile/file-explorer). This repository is more for archival purposes.
 
 ### How to contribute
 Get in touch with the author at [tomkarho.com](https://tomkarho.com/contact)
